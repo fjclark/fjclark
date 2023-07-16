@@ -1,1 +1,1 @@
-![Finlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjclark&theme=shadow_blue&show_icons=true)
+![Finlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjclark&theme=prussian&show_icons=true)
