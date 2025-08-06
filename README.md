@@ -1,6 +1,6 @@
 # About
 
-I'm a PhD student @michellab developing methods for alchemical free energy calculations (especially absolute binding free energy calculations).
+Postdoc @cole-group developing MM force fields. Previously PhD student @michellab developing methods for alchemical free energy calculations (especially absolute binding free energy calculations).
 
 # 🧪 Projects
 
